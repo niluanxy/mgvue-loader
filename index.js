@@ -1,3 +1,1 @@
-module.exports = function() {
-    
-}
+module.exports = require("./lib/loader.js");
