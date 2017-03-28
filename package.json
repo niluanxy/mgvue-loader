@@ -1,6 +1,6 @@
 {
   "name": "mgvue-loader",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "magic-app vue loader",
   "main": "index.js",
   "scripts": {
